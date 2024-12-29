@@ -1,0 +1,10 @@
+C:\Users\REDA\OneDrive\Desktop\xogame\bin\Debug\xogame.exe.config
+C:\Users\REDA\OneDrive\Desktop\xogame\bin\Debug\xogame.exe
+C:\Users\REDA\OneDrive\Desktop\xogame\bin\Debug\xogame.pdb
+C:\Users\REDA\OneDrive\Desktop\xogame\obj\Debug\xogame.csproj.AssemblyReference.cache
+C:\Users\REDA\OneDrive\Desktop\xogame\obj\Debug\xogame.Form1.resources
+C:\Users\REDA\OneDrive\Desktop\xogame\obj\Debug\xogame.Properties.Resources.resources
+C:\Users\REDA\OneDrive\Desktop\xogame\obj\Debug\xogame.csproj.GenerateResource.cache
+C:\Users\REDA\OneDrive\Desktop\xogame\obj\Debug\xogame.csproj.CoreCompileInputs.cache
+C:\Users\REDA\OneDrive\Desktop\xogame\obj\Debug\xogame.exe
+C:\Users\REDA\OneDrive\Desktop\xogame\obj\Debug\xogame.pdb
